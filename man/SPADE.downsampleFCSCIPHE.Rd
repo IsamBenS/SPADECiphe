@@ -1,5 +1,5 @@
-\name{SPADE.downsampleFCS}
-\alias{SPADE.downsampleFCS}
+\name{SPADE.downsampleFCSCIPHE}
+\alias{SPADE.downsampleFCSCIPHE}
 \title{
 Downsample observcations in a FCS file according to density parameter
 }

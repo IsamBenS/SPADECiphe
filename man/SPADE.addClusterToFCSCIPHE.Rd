@@ -1,5 +1,5 @@
-\name{SPADE.addClusterToFCS}
-\alias{SPADE.addClusterToFCS}
+\name{SPADE.addClusterToFCSCIPHE}
+\alias{SPADE.addClusterToFCSCIPHE}
 \title{
 Annotate observations in FCS file with cluster assignment
 }

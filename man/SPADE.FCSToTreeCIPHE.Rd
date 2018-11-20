@@ -1,5 +1,5 @@
-\name{SPADE.FCSToTree}
-\alias{SPADE.FCSToTree}
+\name{SPADE.FCSToTreeCIPHE}
+\alias{SPADE.FCSToTreeCIPHE}
 \title{
 Cluster and build minimum spanning tree from data in FCS files 
 }
