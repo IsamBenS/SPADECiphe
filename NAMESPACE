@@ -1,0 +1,21 @@
+useDynLib(SPADECiphe)
+importFrom(Biobase, exprs, "exprs<-", description, "description<-", pData, "pData<-")
+import(flowCore)
+export(
+	"SPADE.addDensityToFCSCIPHE",
+	"SPADE.transform.FCS",
+	"SPADE.downsampleFCSCIPHE",
+	"SPADE.FCSToTreeCIPHE",
+	"SPADE.addClusterToFCSCIPHE",
+	"SPADE.annotateMarkers",
+	"SPADE.markerMedians",
+	"SPADE.layout.arch",
+	"SPADE.write.graph",
+	"SPADE.annotateGraph",
+	"SPADE.driver",
+	"SPADE.density",
+	"SPADE.plot.trees",
+	"SPADE.flattenAnnotations",
+	"SPADE.read.FCS",
+	"SPADE.removeExistingDensityAndClusterColumns"
+)
