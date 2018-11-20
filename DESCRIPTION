@@ -1,5 +1,5 @@
-Package: spadeCIPHE
-Title: SPADECIPHE -- An analysis and visualization tool for Flow Cytometry
+Package: SPADECiphe
+Title: SPADECiphe -- An analysis and visualization tool for Flow Cytometry, modified version
 Version: 1.10.4
 Author: M. Linderman, P. Qiu, E. Simonds, Z. Bjornson
 Description: SPADE, or Spanning tree Progression of Density normalized Events, is an analysis and visualization tool for high dimensional flow cytometry data that organizes cells into hierarchies of related phenotypes.
